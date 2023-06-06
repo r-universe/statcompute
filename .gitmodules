@@ -18,8 +18,3 @@
 	url = https://github.com/cran/yager
 	shallow = true
 	registered = true
-[submodule "yap"]
-	path = yap
-	url = https://github.com/cran/yap
-	shallow = true
-	registered = true
